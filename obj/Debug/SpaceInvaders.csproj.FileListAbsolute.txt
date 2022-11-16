@@ -1,0 +1,11 @@
+C:\Users\euan\Documents\Computer science\C#\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.AssemblyReference.cache
+C:\Users\euan\Documents\Computer science\C#\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\euan\Documents\Computer science\C#\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+C:\Users\euan\Documents\Computer science\C#\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\euan\Documents\Computer science\C#\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\euan\Documents\Computer science\C#\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\euan\Documents\Computer science\C#\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\euan\Documents\Computer science\C#\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\euan\Documents\Computer science\C#\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\euan\Documents\Computer science\C#\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\euan\Documents\Computer science\C#\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
